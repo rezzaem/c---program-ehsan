@@ -3,7 +3,7 @@ class node:
     def __init__(self, data=None):
         self.data = data
         self.next = None
-        self.down = None 
+        self.down = None
 
 class linked_list:
     def __init__(self):
